@@ -3,6 +3,7 @@
 
 // Выбор платы для конфигурации светодиода
 #define BOARD_ACE_UNO
+// #define BOARD_NUKE
 #include "main.h"
 
 void SystemClock_Config();
